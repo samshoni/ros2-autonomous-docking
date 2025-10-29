@@ -309,8 +309,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sam Shoni**
 - GitHub: [@samshoni](https://github.com/samshoni)
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/sam-shoni-7b2b94301/
+- Email: samshoni10@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -330,5 +330,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **If you find this project useful for your robotics learning journey, please consider giving it a star!**
-
-**Keywords:** ROS2, Autonomous Docking, Mobile Robotics, State Machine, Battery Management, Gazebo Simulation, TurtleBot3, Python, Autonomous Navigation, Service Robotics
